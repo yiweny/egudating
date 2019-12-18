@@ -10,6 +10,7 @@ body {
 }
 .column {
     float: left;
+    overflow: hidden;
     width: 50%;
     padding: 5px;
 }
